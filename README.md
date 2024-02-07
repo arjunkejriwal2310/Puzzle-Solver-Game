@@ -19,11 +19,11 @@ I am using the Java 15 SDK (If it doesn’t work with Java 15, please try using 
 
 **What puzzles did you include?**
 
-Puzzle 1 is Kakurasu
+Puzzle 1 is *Kakurasu*
 
-Puzzle 2 is Skyscraper (I set up the Skyscraper puzzle by creating a scanner that reads a “.dat” file. The file consists of 21 strings. The first string is to specify the size of the square grid. The remaining 20 strings are used to fill in the clues for the puzzle (at the front and end of each row and the front and end of each column))
+Puzzle 2 is *Skyscraper* (I set up the Skyscraper puzzle by creating a scanner that reads a “.dat” file. The file consists of 21 strings. The first string is to specify the size of the square grid. The remaining 20 strings are used to fill in the clues for the puzzle (at the front and end of each row and the front and end of each column))
 
-Puzzle 3 is Dosun-Fuwari
+Puzzle 3 is *Dosun-Fuwari*
 
 
 **GUI:**
